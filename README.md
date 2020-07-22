@@ -1,2 +1,2 @@
 # fivem-radio-lua
-[FiveM Radio](https://google.com) converted to lua
+[FiveM Radio](https://github.com/Hellslicer/fivem-radio) converted to lua
