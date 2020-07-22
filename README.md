@@ -15,7 +15,7 @@
 * No MPEG, MP3 or AAC support as CEF only supports open formats
 
 ## Adding a custom radio
-At the top of `cl_radio.lua`, you can add a radio with the value inside the `[]` being the radio you want to replace, you can find these in `radios.lua`
+At the top of `cl_radio.lua`, you can add a radio by adding another value inside the `customRadios` table as show below with the value inside the `[]` being the radio you want to replace, you can find these in `radios.lua`
 
 ```lua
 local customRadios = {
